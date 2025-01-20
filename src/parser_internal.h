@@ -20,7 +20,7 @@ typedef float real;
 /*
  * the prompt
  */
-#define PROMPT  "\nREDBASE >> "
+#define PROMPT  "\nForgeDB >> "
 
 /*
  * REL_ATTR: describes a qualified attribute (relName.attrName)
